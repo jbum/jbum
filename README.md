@@ -8,6 +8,7 @@ I make projects around computational art, music systems, optical illusions, and 
 
 ## Featured Repositories
 
+- [ottosmash](https://github.com/jbum/ottosmash) - Vibe-code an app for your toddler. Smash the keyboard and get fun shapes, letters, photos, and sounds.
 - [Whitney-Music-Box-Examples](https://github.com/jbum/Whitney-Music-Box-Examples) - Example code for making Whitney Music Boxes in many languages.
 - [CDMS](https://github.com/jbum/CDMS) - A Processing.JS simulation of Joe Freedman's Cycloid Drawing Machine.
 - [qd_mosaic](https://github.com/jbum/qd_mosaic) - Build SVG plotter mosaics using the Quick Draw dataset.
@@ -27,6 +28,7 @@ I make projects around computational art, music systems, optical illusions, and 
 | [kitaoka_illusions](https://github.com/jbum/kitaoka_illusions) | Reconstructions of optical illusions by Akiyoshi Kitaoka. |
 | [limesudoku](https://github.com/jbum/limesudoku) | Tutorial project for constructing Lime Sudoku (Minesweeper Sudoku). |
 | [Organum-Mathematicum](https://github.com/jbum/Organum-Mathematicum) | Music generation algorithm from Athanasius Kircher's 1650 book, *Musurgia Universalis*. |
+| [ottosmash](https://github.com/jbum/ottosmash) | Vibe-code an app for your toddler! Smash the keyboard and get fun shapes, letters, photos and sounds! |
 | [p5js_slider_sketches](https://github.com/jbum/p5js_slider_sketches) | p5.js sketches with a shared slider interface and MIDI control surface support. |
 | [photo-mosaics](https://github.com/jbum/photo-mosaics) | Sample code for producing photo mosaics in Perl/ImageMagick, Ruby/RMagick, and Python/PIL. |
 | [qd_mosaic](https://github.com/jbum/qd_mosaic) | Build SVG plotter mosaics using the doodles in the Quick Draw dataset. |
