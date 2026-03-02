@@ -8,6 +8,7 @@ I make projects around computational art, music systems, optical illusions, and 
 
 ## Featured Repositories
 
+- [bof_filmography](https://github.com/jbum/bof_filmography) - A filmography of the lightning bolt from *Bride of Frankenstein* (1935).
 - [ottosmash](https://github.com/jbum/ottosmash) - Vibe-code an app for your toddler. Smash the keyboard and get fun shapes, letters, photos, and sounds.
 - [Whitney-Music-Box-Examples](https://github.com/jbum/Whitney-Music-Box-Examples) - Example code for making Whitney Music Boxes in many languages.
 - [CDMS](https://github.com/jbum/CDMS) - A Processing.JS simulation of Joe Freedman's Cycloid Drawing Machine.
