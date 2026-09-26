@@ -8,6 +8,7 @@ I make projects around computational art, music systems, optical illusions, and 
 
 ## Featured Repositories
 
+- [gutnumber](https://github.com/jbum/gutnumber) - Track numbers scraped from web pages (sales ranks, video views, site traffic, Hacker News topics) and show them on dashboards, playlists and eInk panels.
 - [bof_filmography](https://github.com/jbum/bof_filmography) - A filmography of the lightning bolt from *Bride of Frankenstein* (1935).
 - [ottosmash](https://github.com/jbum/ottosmash) - Vibe-code an app for your toddler. Smash the keyboard and get fun shapes, letters, photos, and sounds.
 - [Whitney-Music-Box-Examples](https://github.com/jbum/Whitney-Music-Box-Examples) - Example code for making Whitney Music Boxes in many languages.
@@ -21,10 +22,12 @@ I make projects around computational art, music systems, optical illusions, and 
 
 | Repository | Description |
 | --- | --- |
+| [bof_filmography](https://github.com/jbum/bof_filmography) | A filmography of the lightning bolt from *Bride of Frankenstein* (1935). |
 | [carillon](https://github.com/jbum/carillon) | Arduino Carillon project. |
 | [CDMS](https://github.com/jbum/CDMS) | A simulation of Joe Freedman's Cycloid Drawing Machine from Kickstarter, in Processing.JS. |
 | [CycloidDrawingMachine](https://github.com/jbum/CycloidDrawingMachine) | A simulation of Joe Freedman's Cycloid Drawing Machine from Kickstarter. |
 | [emergent-orange](https://github.com/jbum/emergent-orange) | Sample code to reproduce the "Emergent Orange" effect. |
+| [gutnumber](https://github.com/jbum/gutnumber) | Track numbers scraped from web pages and show them on dashboards and playlists, with a Chrome picker extension and a polling daemon. |
 | [jbum](https://github.com/jbum/jbum) | Profile repository for this page. |
 | [kitaoka_illusions](https://github.com/jbum/kitaoka_illusions) | Reconstructions of optical illusions by Akiyoshi Kitaoka. |
 | [limesudoku](https://github.com/jbum/limesudoku) | Tutorial project for constructing Lime Sudoku (Minesweeper Sudoku). |
