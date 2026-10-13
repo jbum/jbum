@@ -8,6 +8,7 @@ I make projects around computational art, music systems, optical illusions, and 
 
 ## Featured Repositories
 
+<!-- FEATURED:START -->
 - [fragtime](https://github.com/jbum/fragtime) - Fragment shaders over time: a formula for every pixel, wired together as nodes and played live on the GPU ([fragtime.jbum.com](https://fragtime.jbum.com/)).
 - [pixelmagic](https://github.com/jbum/pixelmagic) - QTS, the QuickTime Synthesizer (2001), ported to the browser: Pixel Magic's formula for every pixel, plus time ([qts.jbum.com](https://qts.jbum.com/)).
 - [Syd](https://github.com/jbum/Syd) - Polyphonic software synthesizer in Java and C++, now with a patch editor that renders in your browser ([syd.jbum.com](https://syd.jbum.com/)).
@@ -19,6 +20,7 @@ I make projects around computational art, music systems, optical illusions, and 
 - [qd_mosaic](https://github.com/jbum/qd_mosaic) - Build SVG plotter mosaics using the Quick Draw dataset.
 - [CycloidDrawingMachine](https://github.com/jbum/CycloidDrawingMachine) - A simulation of Joe Freedman's Cycloid Drawing Machine.
 - [Organum-Mathematicum](https://github.com/jbum/Organum-Mathematicum) - Music generation algorithm from Athanasius Kircher's *Musurgia Universalis* (1650).
+<!-- FEATURED:END -->
 
 ## All Public Repositories
 
@@ -49,4 +51,4 @@ I make projects around computational art, music systems, optical illusions, and 
 | [zigzag](https://github.com/jbum/zigzag) | Zigzag puzzle generator and solver (aka Slants or Gokigen Naname) |  |
 <!-- REPOS:END -->
 
-<sub>This list is kept up to date from GitHub by a daily workflow (`.github/workflows/repos.yml`).</sub>
+<sub>These lists are kept up to date from GitHub by a daily workflow (`.github/workflows/repos.yml`); the featured ones are named in `.github/featured.json`.</sub>

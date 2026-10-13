@@ -1,0 +1,50 @@
+[
+  {
+    "name": "fragtime",
+    "text": "Fragment shaders over time: a formula for every pixel, wired together as nodes and played live on the GPU ([fragtime.jbum.com](https://fragtime.jbum.com/))."
+  },
+  {
+    "name": "cheesetoast",
+    "text": ""
+  },
+  {
+    "name": "pixelmagic",
+    "text": "QTS, the QuickTime Synthesizer (2001), ported to the browser: Pixel Magic's formula for every pixel, plus time ([qts.jbum.com](https://qts.jbum.com/))."
+  },
+  {
+    "name": "Syd",
+    "text": "Polyphonic software synthesizer in Java and C++, now with a patch editor that renders in your browser ([syd.jbum.com](https://syd.jbum.com/))."
+  },
+  {
+    "name": "gutnumber",
+    "text": "Track numbers scraped from web pages (sales ranks, video views, site traffic, Hacker News topics) and show them on dashboards, playlists and eInk panels."
+  },
+  {
+    "name": "bof_filmography",
+    "text": "A filmography of the lightning bolt from *Bride of Frankenstein* (1935)."
+  },
+  {
+    "name": "ottosmash",
+    "text": "Vibe-code an app for your toddler. Smash the keyboard and get fun shapes, letters, photos, and sounds."
+  },
+  {
+    "name": "Whitney-Music-Box-Examples",
+    "text": "Example code for making Whitney Music Boxes in many languages."
+  },
+  {
+    "name": "CDMS",
+    "text": "A Processing.JS simulation of Joe Freedman's Cycloid Drawing Machine."
+  },
+  {
+    "name": "qd_mosaic",
+    "text": "Build SVG plotter mosaics using the Quick Draw dataset."
+  },
+  {
+    "name": "CycloidDrawingMachine",
+    "text": "A simulation of Joe Freedman's Cycloid Drawing Machine."
+  },
+  {
+    "name": "Organum-Mathematicum",
+    "text": "Music generation algorithm from Athanasius Kircher's *Musurgia Universalis* (1650)."
+  }
+]

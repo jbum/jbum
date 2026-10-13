@@ -1,4 +1,4 @@
-# Keep README.md's "All Public Repositories" table in step with GitHub: daily, on demand
+# Keep README.md's featured list and "All Public Repositories" table in step with GitHub: daily, on demand
 # (Actions tab or `gh workflow run repos.yml`), and whenever the script changes.
 name: Update repository list
 on:
@@ -7,7 +7,7 @@ on:
   workflow_dispatch:
   push:
     branches: [main]
-    paths: [".github/scripts/update_repos.py", ".github/workflows/repos.yml"]
+    paths: [".github/scripts/update_repos.py", ".github/workflows/repos.yml", ".github/featured.json"]
 permissions:
   contents: write
 jobs:
