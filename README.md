@@ -10,6 +10,7 @@ I make projects around computational art, music systems, optical illusions, and 
 
 <!-- FEATURED:START -->
 - [fragtime](https://github.com/jbum/fragtime) - Fragment shaders over time: a formula for every pixel, wired together as nodes and played live on the GPU ([fragtime.jbum.com](https://fragtime.jbum.com/)).
+- [cheesetoast](https://github.com/jbum/cheesetoast) - Cheese Toast: Jim Bumgardner's teapot-in-space arcade game, in the browser (JavaScript + canvas), with online co-op, duel and melee
 - [pixelmagic](https://github.com/jbum/pixelmagic) - QTS, the QuickTime Synthesizer (2001), ported to the browser: Pixel Magic's formula for every pixel, plus time ([qts.jbum.com](https://qts.jbum.com/)).
 - [Syd](https://github.com/jbum/Syd) - Polyphonic software synthesizer in Java and C++, now with a patch editor that renders in your browser ([syd.jbum.com](https://syd.jbum.com/)).
 - [gutnumber](https://github.com/jbum/gutnumber) - Track numbers scraped from web pages (sales ranks, video views, site traffic, Hacker News topics) and show them on dashboards, playlists and eInk panels.
@@ -30,6 +31,7 @@ I make projects around computational art, music systems, optical illusions, and 
 | [bof_filmography](https://github.com/jbum/bof_filmography) | A filmography of the lightning bolt from Bride of Frankenstein, 1935 |  |
 | [carillon](https://github.com/jbum/carillon) | Arduino Carillon project |  |
 | [CDMS](https://github.com/jbum/CDMS) | A simulation of Joe Freedman's Cycloid Drawing Machine from Kickstarter, in Processing.JS |  |
+| [cheesetoast](https://github.com/jbum/cheesetoast) | Cheese Toast: Jim Bumgardner's teapot-in-space arcade game, in the browser (JavaScript + canvas), with online co-op, duel and melee | [ct.krazydad.com](https://ct.krazydad.com) |
 | [CycloidDrawingMachine](https://github.com/jbum/CycloidDrawingMachine) | A simulation of Joe Freedman's Cycloid Drawing Machine from Kickstarter |  |
 | [emergent-orange](https://github.com/jbum/emergent-orange) | Sample code to reproduce the 'Emergent Orange' effect. | [jbum.com/papers/EmergentOrange_paper.pdf](http://jbum.com/papers/EmergentOrange_paper.pdf) |
 | [fragtime](https://github.com/jbum/fragtime) | Fragtime: fragment shaders over time. A formula for every pixel, wired as nodes, played live on the GPU. The successor of QTS. | [fragtime.jbum.com](https://fragtime.jbum.com/) |
